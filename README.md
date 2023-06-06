@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Philipp 👋
 
 <!--
 **pweinstock/pweinstock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Projects
+## [miniRT](https://github.com/pweinstock/miniRT) [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+My fellow 42 student [shackbei](https://github.com/shackbei) and I built a raytracing-based 3D renderer in C. Using a path tracing algorithm, we were able to implement fundamental physical and mathematical concepts to generate images.
+### [webserv](https://github.com/pweinstock/webserv) [![My Skills](https://skillicons.dev/icons?i=cpp,nginx,html)](https://skillicons.dev)
+### [ft_transcendence](https://github.com/pweinstock/ft_transcendence) [![My Skills](https://skillicons.dev/icons?i=docker,nestjs,postgres,react)](https://skillicons.dev)
+### [minishell](https://github.com/pweinstock/minishell) [![My Skills](https://skillicons.dev/icons?i=c,bash)](https://skillicons.dev)
